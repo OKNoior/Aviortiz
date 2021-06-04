@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#header{
+    background-image: linear-gradient(to bottom, #a21c26, #7a1727, #521521, #2c1017, #000000);
+}
+#header img{
+    width: 80px;
+}
+#main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+}
+
+#products .card{
+    background-color: black;
+}
+#lugar-produccion img{
+    max-width: 100%;
+}
+#footer{
+    background-image: linear-gradient(to top, #a21c26, #7a1727, #521521, #2c1017, #000000);
+}
+#footer span{
+    color: white;
+}
